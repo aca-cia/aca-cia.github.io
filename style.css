@@ -1,10 +1,22 @@
 body {
   background-color: black;
   background-image: url("beeg.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: left;
   color: LightGray;
   font-family: "Courier New", Courier, monospace;
 }
 div {
-  background: rgba(0, o, 0, 0.3);
+  background: rgba(0, 0, 0, 0.5);
+  border-style: none none none dotted;
+  border-color: black;
+}
+p {
+  background: rgba(255, 255, 255, 0.5);
+  border-style: none none none solid;
+  border-color: white;
+  margin-left: 80px;
 }

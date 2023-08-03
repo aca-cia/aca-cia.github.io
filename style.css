@@ -1,7 +1,10 @@
 body {
-  background-color: burlywood;
+  background-color: black;
   background-image: url("beeg.png");
   text-align: left;
-  color: midnightblue;
+  color: LightGray;
   font-family: "Courier New", Courier, monospace;
+}
+div {
+  background: rgba(0, o, 0, 0.3);
 }
